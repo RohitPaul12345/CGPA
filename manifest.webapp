@@ -1,0 +1,13 @@
+{
+  "name": "CGPA Calculator",
+  "description": "This is a CGPA Calculator. You can calculate your CGPA easily from this application.Thank You, enjoy it",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icon.png"
+  },
+  "developer": {
+    "name": "Talha",
+    "url": "http://talha.cf"
+  },
+  "default_locale": "en"
+}
